@@ -20,4 +20,13 @@ public class Console {
         }
         return value;
     }
+    /*
+    What the "readNumber" method does:
+    It basically just reads user input and returns that value.
+    The reason we have two methods is because we OVERLOADED them which
+    means that they have the same name and everything but just accept
+    different parameters. For example the first one only reads a number, it
+    could be any number. The second method reads a number but also the number
+    needs to be between two specific values which the user passes.
+     */
 }
